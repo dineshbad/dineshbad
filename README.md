@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @dineshbad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dineshbad/dineshbad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Badiwal Dairy,
+                        Milk is an important part of our everyday life. That's why we have brought for you the milk of Bariwal Dairy which should take care of your health and keep you healthy.
+                                                                Thank you
